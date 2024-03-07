@@ -1,0 +1,1 @@
+redux_counter is a small educational project to practice redux.
